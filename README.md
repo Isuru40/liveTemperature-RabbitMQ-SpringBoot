@@ -1,6 +1,6 @@
 # liveTemperature-RabbitMQ-SpringBoot
 
-This dashboard powerd by RabbitMQ.
+This dashboard is integrated by RabbitMQ.
 
 You have to crete Exchange, Queue, RouteKey in RabbitMq initial configuration
 
